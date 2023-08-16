@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berry3536
-- 👀 I’m interested in Mobile Robot & Controller design
+- 👀 I’m interested in Mobile Robot Platform, Robotics, Realtime System, Controller design
 - 🌱 I’m currently learning Optimal control
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: colink0403@naver.com
