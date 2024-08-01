@@ -9,21 +9,21 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔨 Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
-          <h2 style="color: #c9d1d9; font-size: 18px"> Envirornment </h2>
+          <h3 style="color: #c9d1d9; font-size: 18px"> Envirornment </h3>
           <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
           <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
           <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
           <br><br>
-          <h2 style="color: #c9d1d9; font-size: 18px">  Language </h2>
+          <h3 style="color: #c9d1d9; font-size: 18px">  Language </h3>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
           <br><br>
-          <h2 style="color: #c9d1d9; font-size: 18px"> OS </h2>
+          <h3 style="color: #c9d1d9; font-size: 18px"> OS </h3>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
           <br><br>
-          <h2 style="color: #c9d1d9; font-size: 18px"> Communication </h2>
+          <h3 style="color: #c9d1d9; font-size: 18px"> Communication </h3>
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Jira software-0052CC?style=flat-square&logo=Jira software&logoColor=white">
           <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white">
